@@ -30,7 +30,7 @@
 
 <br/>
 
-<a href="https://github.com/pedrohpiress" title="Perfil do Iuri">
+<a href="https://github.com/pedrohpiress" title="Meu perfil!">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohpiress&theme=dracula&show_icons=true" />
 </a>
 
