@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=pedrohpiress&color=006bed)
 
-## Olá, meu nome é Pedro Pires, seja bem-vindo ao meu Github!
+## Olá! meu nome é Pedro Pires, seja bem-vindo ao meu Github!
 
 
 ## Sobre mim
